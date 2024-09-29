@@ -23,18 +23,18 @@ This repository contains a Unity project showcasing basic player movement in two
 </ul>
 
 <h2>Project Structure</h2>
-/Assets<br>
 <pre>
-   /Scenes<br>
-      - Input Using CC.unity              # Scene demonstrating player movement using Character Controller<br>
-      - Input Using RB.unity              # Scene demonstrating player movement using Rigidbody<br>
-<br>
-   /Scripts<br>
-      - PlayerMovement.cs                 # Script controlling player movement in Scene 1<br>
-      - PlayerMovemntRB.cs                # Script controlling player movement in Scene 2<br>
-<br>
-  /Input Map<br>
-      - CustomInputs.inputactions         # Input mapping for Unity's New Input System<br>
+/Assets
+   /Scenes
+      - Input Using CC.unity              # Scene demonstrating player movement using Character Controller
+      - Input Using RB.unity              # Scene demonstrating player movement using Rigidbody
+
+   /Scripts
+      - PlayerMovement.cs                 # Script controlling player movement in Scene 1
+      - PlayerMovemntRB.cs                # Script controlling player movement in Scene 2
+
+  /Input Map
+      - CustomInputs.inputactions         # Input mapping for Unity's New Input System
 </pre>
 
 <h2>Requirements</h2>
