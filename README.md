@@ -5,7 +5,7 @@ This repository contains a Unity project showcasing basic player movement in two
 <h2>Features</h2>
 <ul>
   <li>
-    <b>Scene 1 (Input Using CC): Character Controller Setup</b>
+    <b>Scene 1 (Character_Controller): Character Controller Setup</b>
     <ul>
       <li>Player movement using Unity's Character Controller.</li>
       <li>Configured with Unity's New Input System for handling input events.</li>
@@ -13,7 +13,7 @@ This repository contains a Unity project showcasing basic player movement in two
     </ul>
   </li>
   <li>
-    <b>Scene 2 (Input Using RB): Rigidbody Setup</b>
+    <b>Scene 2 (Rigid_Body): Rigidbody Setup</b>
     <ul>
       <li>Player movement using Unity's Rigidbody physics-based approach.</li>
       <li>Also uses Unity's New Input System for player inputs.</li>
@@ -26,8 +26,8 @@ This repository contains a Unity project showcasing basic player movement in two
 <pre>
 /Assets
    /Scenes
-      - Input Using CC.unity              # Scene demonstrating player movement using Character Controller
-      - Input Using RB.unity              # Scene demonstrating player movement using Rigidbody
+      - Character_Controller.unity        # Scene demonstrating player movement using Character Controller
+      - Rigid_Body.unity                  # Scene demonstrating player movement using Rigidbody
    /Scripts
       - PlayerMovement.cs                 # Script controlling player movement in Scene 1
       - PlayerMovemntRB.cs                # Script controlling player movement in Scene 2
