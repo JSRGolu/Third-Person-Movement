@@ -33,6 +33,7 @@ This repository contains a Unity project showcasing basic player movement in two
       - PlayerMovemntRB.cs                # Script controlling player movement in Scene 2
   /Input Map
       - CustomInputs.inputactions         # Input mapping for Unity's New Input System
+      - CustomInputs.cs                   # Script created by Input Mapping
 </pre>
 
 <h2>Requirements</h2>
